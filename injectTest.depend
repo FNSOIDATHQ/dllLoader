@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1733566079 source:f:\resources\code\dllLoader\main.cpp
+	"main.h"
+
+1733566082 f:\resources\code\dllLoader\main.h
+	<windows.h>
+	<fstream>
+	<string>
+
+1733566079 source:f:\resources\code\dllloader\main.cpp
+	"main.h"
+
+1734523783 f:\resources\code\dllloader\main.h
+	<windows.h>
+	<fstream>
+	<string>
+

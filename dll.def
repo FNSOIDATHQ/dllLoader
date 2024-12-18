@@ -1,0 +1,3 @@
+EXPORTS
+   ?LowLevelKeyboardProc@@YGJHIJ@Z=LowLevelKeyboardProc
+   ?SetHookID@@YAXPAUHHOOK__@@@Z=SetHookID
